@@ -1,4 +1,3 @@
-![4 old](https://github.com/VibhaYadav04/Trend-Vintage-Closet/assets/110171547/1e1d6020-4ffa-4ee3-8abd-5715e9853ea1)# Trend Vintage Closet
 # Technologies Used:
 1. JavaServer Pages (JSP)
 2. Servlets
