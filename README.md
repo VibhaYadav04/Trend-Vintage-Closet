@@ -37,18 +37,18 @@ payment, cash on delivery, free shipping and return available.
 12. View All- This button is added to view all the clothes of that domain.  
 13. If we log in using email id as admin@gmail.com and password as admin then Admin module 
 is activated and the various functions of admin listed under Settings are as follows-  
-• Add Cloth- This help admin to add a new cloth along with its details. 
-• All Clothes- This helps admin to view all the new clothes he had added. 
-• Orders- This helps admin to see the orders done by all the users. 
-• Logout- This helps to logout from the website. 
+- Add Cloth- This help admin to add a new cloth along with its details. 
+- All Clothes- This helps admin to view all the new clothes he had added and edit them. 
+- Orders- This helps admin to see the orders done by all the users. 
+- Logout- This helps to logout from the website. 
 14. If we log in using the credentials of a user then User module is activated and the various 
 functions of admin listed under Settings are as follows- 
-• Sell Old Cloth- It helps to add details of the old clothe the user needs to sell 
-• Old Cloth- It helps to see all the old clothes he has uploaded. It can also delete the 
+- Sell Old Cloth- It helps to add details of the old clothe the user needs to sell 
+- Old Cloth- It helps to see all the old clothes he has uploaded. It can also delete the 
 cloth which he has sold.   
-• Edit Profile- It helps the user to edit the details of his profile. 
-• My Order- It helps the user to check his orders. 
-• Help Center- It gives the contact number to talk to admin.  
+- Edit Profile- It helps the user to edit the details of his profile. 
+- My Order- It helps the user to check his orders. 
+- Help Center- It gives the contact number to talk to admin.  
 15. Cart- It help to see the item you have added in cart and we need to give our address and the 
 mode of payment. Then we need t click on Order Now and then we’ll be redirected to a page 
 where we can see when it will be delivered. 
