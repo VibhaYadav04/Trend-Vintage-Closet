@@ -1,3 +1,6 @@
+# Trend Vintage ClOset 
+A web based application where a user can buy new clothes and can sell his old cloth as well. Addition of new clothe is managed by admin and addition of old cloth is managed by the user itself. 
+
 # Technologies Used:
 1. JavaServer Pages (JSP)
 2. Servlets
